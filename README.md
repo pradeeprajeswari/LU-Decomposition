@@ -72,6 +72,8 @@ print(solution)
 
 ## Output:
 ![lu decomposition]()
+![lu decomposition1](https://github.com/pradeeprajeswari/LU-Decomposition/assets/145743112/49d719e9-fc99-423e-b060-9085fa143486)
+![lu decomposition2](https://github.com/pradeeprajeswari/LU-Decomposition/assets/145743112/d7008628-d873-4258-a9a2-8d14e41bfe11)
 
 
 ## Result:
